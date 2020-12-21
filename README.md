@@ -17,6 +17,6 @@ https://nba-quiz-32125.herokuapp.com/
 ①ランダムで画像を表示
 ②画像にname属性を指定してユーザーの解答と照らし合わせる
 ③正誤に合わせて正解不正解を出力
-![move.mp4](./app/assets/images/move.mp4)
+![動作.gif](.動作.mp4)
 # ローカルでの動作方法	 
 Ruby 2.6.5, Ruby on rails 6.0.3.4, Javascript, Visual Studio Code,
