@@ -16,6 +16,8 @@ function getImage(){
   var obj = document.getElementById("ran");
   var a = Math.floor(Math.random() * img.length); 
   obj.src = `assets/${img[a]}`;
+  var exp = document.getElementById("explain");
+  exp.innerHTML=””
 })
 }
 window.addEventListener("load", getImage);
